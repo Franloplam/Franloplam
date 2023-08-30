@@ -22,9 +22,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" height="40" style="vertical-align:top; margin:4px">
-<img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn" height="40" style="vertical-align:top; margin:4px">
 <img src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png" alt="Mssql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.gstatic.com/devrel-devsite/prod/v670576875a5cc9e38d1ef4dc0b1c46d2dc586275242dba27f9cea38af0674100/cloud/images/social-icon-google-cloud-1200-630.png" alt="GCP" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.seekpng.com/png/small/410-4104604_here-is-how-to-add-a-shortcut-of.png" alt="Jupyter" height="40" style="vertical-align:top; margin:4px"> 

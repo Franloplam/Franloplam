@@ -4,7 +4,7 @@
 
 * 💬Ask me about **Python**🐍
 * 📫How to reach me: francolo10.95@gmail.com
-* 🌱I'm currently mearning CSS
+* 🌱I'm currently learning CSS and Django
 * ⚡Fun fact: I love music, movies and reading
 
 ## ✉️ Find me on:

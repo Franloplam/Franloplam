@@ -3,7 +3,7 @@
 ## 💻I'm a **Data Scientist** from Buenos Aires
 
 * 💬Ask me about **Python**🐍
-* 📫How to reach me: francolo10.95@gmail.com
+* 📫How to reach me: fran.lop.lam@gmail.com
 * 🌱I'm currently learning CSS and Django
 * ⚡Fun fact: I love music, movies and reading
 
